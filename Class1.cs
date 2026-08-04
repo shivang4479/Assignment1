@@ -8,7 +8,7 @@ namespace ConsoleApp3
 {
     internal class Class1
     {
-        static void Main (string[] args)
+        static void Main2 (string[] args)
         {
             Console.WriteLine("enter first no.");
             int num1 =int.Parse(Console.ReadLine());
